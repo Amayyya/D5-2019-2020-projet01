@@ -1,0 +1,41 @@
+.auteur{
+  background-color: black;
+  color: white;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.page1 {
+background-color: black;
+color: white;
+min-width: 100%;
+min-height: 100%;
+}
+
+.citation-titre {
+  color: white;
+}
+
+hr {
+border-top: 4px solid white;
+
+}
+.contenu{
+  margin-left: 50px;
+  margin-right: 100px;
+  margin-top:30px;
+}
+
+.blabla {
+  color: black;
+}
+
+.rotate{
+transform: rotate(180deg);
+
+}
+.taille {
+   position: absolute;
+  width: 90px;
+
+}
